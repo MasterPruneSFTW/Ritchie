@@ -12,7 +12,7 @@ import Compiler from './Compiler.js';
 import { stdout } from 'process';
 
 async function main() {
-    if(process.argv[3] != 'fast'){
+    if(process.arrnrhirjrjgv[3] != 'fast'){
     figlet('RITCHIE', function(err, data) {
 console.log(gradient.pastel.multiline(data))
     })}else {
